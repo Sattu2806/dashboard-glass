@@ -2,6 +2,8 @@
 
 This repository contains a modern dashboard built with React (Next.js) that leverages a glassmorphism design aesthetic to deliver a sleek, transparent, and modern UI. The dashboard displays key analytics using interactive charts, dynamic property listings, and various UI components—all styled with a glass-like effect.
 
+<img width="1440" alt="Screenshot 2025-03-05 at 12 41 56 AM" src="https://github.com/user-attachments/assets/2d49b81f-ffef-4df1-8f8a-d3a319d2895e" />
+
 ## Features
 
 - **Glassmorphism Design**: Elegant, translucent UI panels with blurred backgrounds and subtle borders.
